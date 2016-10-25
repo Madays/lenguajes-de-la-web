@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 20px;
+    font: Arial;
+    font-weight: 500; 
+    text-align: center;
+}
+.img__logo{
+    border: blue 1px solid;
+}
+.txt__lenguaje{
+    color: yellow;
+    font-size: 14px;
+}
+h2 {
+    color: black;
+    font-size: 16px;
+    
+}
